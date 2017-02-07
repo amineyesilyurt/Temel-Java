@@ -19,6 +19,7 @@ public class InterfaceExtendsInterface {
         MyClass a = new MyClass();
         a.methodOne();
         a.methodTwo();
+        a.methodThree();
         // TODO code application logic here
     }
     

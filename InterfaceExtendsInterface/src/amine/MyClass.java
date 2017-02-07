@@ -20,6 +20,11 @@ public class MyClass implements InterfaceTwo{
     public void methodOne() {
         System.out.println("methodOne");
     }
+
+    @Override
+    public void methodThree() {
+        System.out.println("methodThree");
+    }
     
     
     

@@ -9,8 +9,8 @@ package amine;
  *
  * @author Amine
  */
-public interface InterfaceTwo extends InterfaceOne,InterfaceThree{
+public interface InterfaceThree {
     
-    public void methodTwo();
+    public void methodThree();
     
 }
